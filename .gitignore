@@ -63,7 +63,7 @@ target/
 .ipynb_checkpoints/
 
 # Custom directories and files
-*/data/*
-*/resources/*
-*/resource/*
+data
+resource
+resources
 *.csv
