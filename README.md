@@ -3,7 +3,7 @@ A collection of Jupyter Notebooks from the AI Engineering course from IBM.
 # Running  
 
 ### Pyenv  
-To set and switch to a new isolated envirnment use `pyenv`  
+To set and switch to a new isolated environment use `pyenv`  
 Installation: https://github.com/pyenv/pyenv  
 
 
